@@ -1,4 +1,8 @@
-# 大连交通大学TOE战队github组织
-———维护人：Evence
+# <img src="img/logo.jpeg" width = "30" height = "30"> __大连交通大学TOE战队__
 
-## 仓库概要
+———_维护人：Evence_
+
+___
+
+### [`组织文档概览`](https://github.com/DJTU-RM-TOE/DJTU-RM-TOE/blob/main/README.md)
+
