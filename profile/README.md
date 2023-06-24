@@ -1,4 +1,4 @@
-# <img src="img/logo.jpeg" width = "30" height = "30"> __大连交通大学TOE战队__
+# <img src="profile/img/logo.jpeg" width = "30" height = "30"> __大连交通大学TOE战队__
 
 ———_维护人：Evence_
 
