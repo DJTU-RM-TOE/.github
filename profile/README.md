@@ -10,5 +10,5 @@ ___
 
 * __[组织Github page主页](https://djtu-rm-toe.github.io/#/)__
 
-* __[组织文档概览](https://github.com/DJTU-RM-TOE/DJTU-RM-TOE/blob/main/README.md)__
+
 
