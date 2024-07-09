@@ -2,7 +2,7 @@
 
 ———_维护人：Evence_
 ___
-<img src="https://github.com/DJTU-RM-TOE/.github/blob/main/profile/img/DJTU.jpe"> 
+<img src="https://github.com/DJTU-RM-TOE/.github/blob/main/profile/img/DJTU.jpeg"> 
 
 
 * __实验室简介：__
