@@ -1,8 +1,8 @@
-# <img src="profile/img/logo.jpeg" width = "30" height = "30"> __大连交通大学TOE战队__
+# <img src="https://github.com/DJTU-RM-TOE/.github/blob/main/profile/img/logo.jpeg" width = "30" height = "30"> __大连交通大学TOE战队__
 
 ———_维护人：Evence_
 ___
-<img src="profile/img/DJTU.jpeg"> 
+<img src="https://github.com/DJTU-RM-TOE/.github/blob/main/profile/img/DJTU.jpe"> 
 
 
 * __实验室简介：__
