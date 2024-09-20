@@ -10,5 +10,15 @@ ___
 
 * __[组织Github page主页](https://djtu-rm-toe.github.io/#/)__
 
+* 项目看板
+
+  | 项目名称   | 描述                                 |
+  |------------|--------------------------------------|
+  | [ins_-can_-f4]([https://github.com/DJTU-RM-TOE/ins_-can_-f4) | bmi088板，使用can与主机通信 |
+  | [TOE_control](https://github.com/DJTU-RM-TOE/TOE_control) | 基于ros2 humble的无下位机控制方案 |
+
+
+
+
 
 
